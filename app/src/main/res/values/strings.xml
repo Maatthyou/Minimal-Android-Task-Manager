@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DoDo</string>
+    <string name="today">Today : </string>
+    <string name="to_do">To Do</string>
+    <string name="add_new_task">Add New Task</string>
+    <string name="date">Date :</string>
+    <string name="time">Time :</string>
+    <string name="to_day">Today</string>
+    <string name="pick_time">Pick Time</string>
+    <string name="save">Save</string>
+    <string name="pick_date">Pick Date</string>
+    <string name="edit">Edit</string>
+    <string name="done">Done</string>
+    <string name="delete">Delete</string>
+</resources>
