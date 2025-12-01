@@ -33,3 +33,19 @@ This project currently uses a basic **Activity-as-Controller** architecture. All
     ```
 2.  Open the project in **Android Studio**.
 3.  Build and run the app on an emulator or a physical Android device (API 21+).
+
+4.  ---
+  ## Screenshots
+
+### First Screenshot
+![First Screenshot](ss/ss1-portrait.png)
+
+### Second Screenshot
+![Second Screenshot](ss/ss2-portrait.png)
+
+### Third Screenshot
+![Second Screenshot](ss/ss3-portrait.png)
+
+### Fourth Screenshot
+![Second Screenshot](ss/ss4-portrait.png)
+
